@@ -1,0 +1,13 @@
+name: Reward
+version: '${project.version}'
+main: me.moontimer.dreampvp.reward.Reward
+api-version: 1.16
+authors: [ MoonTimer ]
+description: Reward
+website: https://moontimer.me
+depend:
+  - NoteBlockAPI
+commands:
+  reward:
+  playsong:
+  download:
